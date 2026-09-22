@@ -74,8 +74,18 @@ Briefly describe which option you have agreed to.
 
 Do a team-building activity in-person or online. This can be playing an online game, meeting for bubble tea, lunch, or any other activity you all enjoy.
 * Get to know each other on a more personal level.
-* Provide a few sentences on what you did and share a picture or other evidence of your team building activity.
-* Share at least three fun facts from members of you team (total not 3 for each member).
+* Provide a few sentences on what you did and share a picture or other evidence of your team building activity:
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/ca3dec91-ce39-409b-868b-48a44604a332" />
+We played Contexto puzzle and won after 50 guesses.
+
+* Share at least three fun facts from members of you team.
+- Alex: Did beekeeping for 2 years, rock climbs, goes to gym
+- Alice: Plays Tetris, plays volleyball, likes to play!!!!
+- Grace: Plays Minecraft, ran a knitwear company in high school, is from Ottawa
+- Julia: Played piano for 10 years, has two dogs and two cats, likes crocheting
+- Justin: Skydived before, likes playing basketball, has a cute dog
+- Victoria: has an art account on Instagram and sells art, plays tennis, plays Minecraft
+- Welcent: likes snowboarding, plays Minecraft, can drive
 
 
 #### Q7: What are the roles & responsibilities on the team?
