@@ -1,4 +1,4 @@
-# YOUR PRODUCT/TEAM NAME
+# Happy Habits/dotjava
 > _Note:_ This document will evolve throughout your project. You commit regularly to this file while working on the project (especially edits/additions/deletions to the _Highlights_ section). 
  > **This document will serve as a master plan between your team, your partner and your TA.**
 
@@ -74,10 +74,7 @@ Briefly describe which option you have agreed to.
 
 Do a team-building activity in-person or online. This can be playing an online game, meeting for bubble tea, lunch, or any other activity you all enjoy.
 * Get to know each other on a more personal level.
-* Provide a few sentences on what you did and share a picture or other evidence of your team building activity:
-<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/ca3dec91-ce39-409b-868b-48a44604a332" />
-We played Contexto puzzle and won after 50 guesses.
-
+* Provide a few sentences on what you did and share a picture or other evidence of your team building activity: <img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/ca3dec91-ce39-409b-868b-48a44604a332" /> We played Contexto puzzle and won after 50 guesses.
 * Share at least three fun facts from members of you team.
 - Alex: Did beekeeping for 2 years, rock climbs, goes to gym
 - Alice: Plays Tetris, plays volleyball, likes to play!!!!
